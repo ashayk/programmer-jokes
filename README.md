@@ -12,4 +12,5 @@ Joke Main 1
 Joke Main 2
 
 Joke 1 TestSquash
+Joke 2 TestSquash
 
